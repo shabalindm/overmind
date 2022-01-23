@@ -18,3 +18,7 @@
 - патологическое зацепление (pathological coupling).
 
 
+
+# Обратные ссылки
+[Слушатель (шаблон GOF)](/listener-gof-template.md)
+
