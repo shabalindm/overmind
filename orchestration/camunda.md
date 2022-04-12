@@ -7,7 +7,7 @@
 - Camunda Platform.
 
 Компоненты 
-  - Zeebe                                       
+  - [Zeebe](zeebe.md)                                      
   - Operate                                     
   - Tasklist                                    
   - Optimize                                    
